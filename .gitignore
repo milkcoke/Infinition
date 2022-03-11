@@ -1,0 +1,10 @@
+
+# Intellij IDE file
+.idea
+**/logs
+
+# pakcage dependency
+node_modules
+
+# dotenv
+*.env
