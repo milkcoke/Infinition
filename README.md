@@ -9,3 +9,10 @@
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) 
 
 
+### Apply HTTP/2 or HTTPS
+![HTTPS example screenshot](./public/asset/https_example_screenshot.png)
+
+Use [mkcert](https://github.com/FiloSottile/mkcert#installation) for generating SSL key, cert files. \
+Refer to [How to use HTTPS in localhost](https://web.dev/i18n/ko/how-to-use-local-https/)
+
+
