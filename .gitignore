@@ -8,3 +8,7 @@ node_modules
 
 # dotenv
 *.env
+
+# SSL key files
+localhost.pem
+localhost-key.pem
